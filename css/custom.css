@@ -1,0 +1,560 @@
+.custom{
+		margin: 0 29px -53px 10px !important;
+		width: unset !important;
+	}
+.thd{
+		background:#0060b1;
+		padding: 7px !important;	
+	}
+	
+.tb-head{
+	background-color: #0060b1;
+	text-align:center;
+}	
+
+.tree-menu{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.item_inner ul li{
+	margin-bottom: 8px;
+}
+.item_inner ul{
+	
+	color:#000;	
+	
+}
+
+/*********** pannel******/
+
+.panel-heading .panel-title a{
+	display:block;
+}
+
+.panel-body table td a{
+  display:block;
+
+}
+
+
+.meta .btn{
+   margin-top: unset !important;
+}
+
+.item_inner li a{
+	font-weight:normal;
+	color:#000;	
+	
+}
+.item_inner li a:hover{
+	color:#0060b1;	
+}
+.degree ul li{
+	color:#000;
+	font-size:16px;  
+}
+
+.profile-pic img{
+	width: 200px;
+	height:auto;
+}	
+	
+.logo {
+    background: #fff none repeat scroll 0 0;
+    left: 0;
+   width: 113px;
+	height: 113px;
+	margin-top: -11px;
+    padding: 0px 5px;
+    position: absolute;
+    top: 0;
+    z-index: 999;
+}
+
+.logo_old {
+    background: #fff none repeat scroll 0 0;
+    left: 0;
+    max-width: 113px;
+	margin-top: -11px;
+    padding: 0px 5px;
+    position: absolute;
+    top: 0;
+    z-index: 999;
+}
+
+
+.top-nav h2 {
+    float: left;
+    font-size: 26px;
+    margin: 0 0 0 25%;
+    padding: 10px 0;
+}
+
+.top-nav {
+    display: block;
+    position: relative;
+}
+
+.custom {
+    text-align: center;
+}
+
+
+    
+}
+.welcome-row{
+	padding-left:17px;
+    
+}
+.container2{
+	margin-left: -15px;
+}
+
+
+
+.mega-dropdown {
+  position: static !important;
+}
+.mega-dropdown-menu {
+    padding: 10px 0px;
+    width: 100% !important;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+	margin-top: 10px !important;
+}
+.mega-dropdown-menu > li > ul {
+  padding: 0;
+  margin: 0;
+}
+.mega-dropdown-menu > li > ul > li {
+  list-style: none;
+}
+.mega-dropdown-menu > li > ul > li > a {
+  display: block;
+  color: #222;
+  padding: 0px;
+}
+
+.mega-dropdown-menu .dropdown-header {
+  font-size: 18px;
+  color: #ff3546;
+  padding: 5px 60px 5px 5px;
+  line-height: 30px;
+}
+
+ .sub-mega-menu{
+	font-weight: lighter; 
+	font-size:13px;
+}
+
+.header .navbar-nav > li > .dropdown-menu2::before {
+	 /*background: unset;*/
+	margin-left: 50% !important;
+}
+
+
+
+.glyphicon { margin-right:17px; font-size: 18px; color:#87086c; }
+
+.panel-body { padding:0px; }
+.panel-body table tr td { padding-left: 15px }
+.panel-body .table {margin-bottom: 0px; }
+
+
+.notice{
+	text-align: center;
+}
+
+.vc-msg-head{
+	color: #fff; 
+	border: 1px solid #ddd; 
+	font-weight:bold; 
+	text-align:center; 
+	font-size: 16px; 
+	background-color: #7A0202;
+	padding: 10px;
+	
+}
+
+.int-sec{
+font-size:39px;
+
+
+}
+.int-sec-cn{
+font-size:35px;
+
+
+}
+
+.notices{
+	color: #fff; 
+	border: 1px solid #ddd; 
+	font-weight:bold; 
+	text-align:center; 
+	font-size: 16px; 
+	background-color: #7A0202;
+	padding: 10px;
+	margin-top:-16px;
+	
+}
+.col-head {
+	
+	color: #fff; 
+	border: 1px solid #ddd; 
+	font-weight:bold; 
+	text-align:center; 
+	font-size: 20px; 
+	background-color: #7A0202;
+	padding: 10px;	
+}
+
+.events-title{
+	margin-top:10px;	
+}
+.events-title h4 a{
+	color: #000;
+}
+
+.faculty-nav{
+	border: 1px solid #cdcdcd;
+    
+    position: relative;
+	
+}
+.sub-menu2{
+	padding: 6px 0 0 19px;
+	background: #fff;
+	margin-left:34px;
+}
+.mrg-lft{
+	padding-left: 15px;
+}
+
+.sub-menu3{
+	
+	background: #fff;
+	padding-left:50px;
+}
+.fac-details {
+	
+	color:#0060b1 !important;
+}
+.MapFac{
+	 
+	color: #fff; 
+	border: 1px solid #ddd; 
+	font-weight:bold; 
+	text-align:center; 
+	font-size: 20px; 
+	background-color: #7A0202;
+	padding: 10px;
+	margin:20px 0px 15px 0px;
+}
+
+.faculty-title{
+  border-radius:0px;
+  background:#cdcdcd;
+   	
+}
+
+.faculty-title a{
+	color:#000 !important;
+}
+.dept{
+	font-weight: lighter;	
+	
+}
+.dept-icon{
+	color:#0060b1;
+}
+
+.captionLink2, .captionLink2:hover {
+  width: 100%;
+  height: 44px;
+  display: block;
+  color: #000;  
+  line-height: 44px;
+  text-indent: 13px;
+  background-color: #f6f9fa;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  border: 1px solid #0060b1; 
+}
+
+.hdiv {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: #eee -moz-use-text-color -moz-use-text-color;
+    border-image: none;
+    border-style: solid none none;
+    border-width: 1px 0 0;
+   
+   
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+
+.pad{
+	padding: 0px 10px 0px 10px;
+
+}
+
+.rel_right a{
+	color:#000;	
+}
+.note{
+	margin-top:2px !important; 
+}
+.ta-dat{
+	margin-left: 34px;
+	font-size: 13px;
+}
+
+.menu-col{
+	color:#fff;
+	
+}
+.menu-col-last{
+	color:#fff;	
+}
+.menu-col ul li a{
+	color:#fff;
+}
+
+.menuFoot li {
+  list-style: none;
+}
+.menuFoot li a {
+  line-height: 30px;
+  color: #000;
+  font-size:12px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;  
+}
+ .head-foot-menu{
+	font-size:22px !important;
+ 	line-height: 30px !important;
+}
+.menuFoot li a:hover {
+  opacity: .8;
+}
+.menu-col-last ul li a{
+	color:#fff;
+}
+
+ul, ol {
+  list-style: none;
+}
+#accordion1 li.panel{
+    margin-bottom: 0px;
+}
+
+.event-pager {
+    list-style: outside none none;
+    margin: 15px 0;
+    padding-left: 0;
+    text-align: center;
+}
+.event-pager li {
+    display: inline;
+}
+.event-pager li > a, .event-pager li > span {
+    background-color: #7A0202;
+    border: 1px solid #ddd;    
+    display: inline-block;
+    padding: 5px 14px;
+	color:#fff;
+}
+.event-pager li > a:focus, .event-pager li > a:hover {
+    background-color: #651110;
+    text-decoration: none;
+}
+
+/* carousel */
+.media-carousel 
+{
+  margin-bottom: 0;
+  padding: 0 15px 0 15px;
+  margin-top: 10px;
+}
+
+
+/* Changes the position of the indicators */
+.media-carousel .carousel-indicators 
+{
+  right: 50%;
+  top: auto;
+  bottom: 0px;
+  margin-right: -19px;
+}
+/* Changes the colour of the indicators */
+.media-carousel .carousel-indicators li 
+{
+  background: #c0c0c0;
+}
+.media-carousel .carousel-indicators .active 
+{
+  background: #333333;
+}
+
+/* End carousel */
+
+
+/* ---- about, library, undergraduate, postgraduate----- */
+
+.about-sidebar ul li{
+	background:#d8d8d8; 
+	border-bottom:1px solid #fff;
+	padding: 8px 0 8px 0;
+}
+.about-sidebar ul li a{
+	color:#000;
+	margin: 0 0 0 10px;
+	display: block;
+}
+
+.about-sidebar ul li:hover{
+
+	background:#939598;
+}
+.about-sidebar ul .active{
+	background:#939598;
+}
+
+.about-icon{
+float: right;
+	padding:5px 6px 0 0;
+	color:#febe6a;
+	text-shadow: 1px 1px 1px #000;
+}
+
+.a-titl{
+	background: -webkit-linear-gradient(left, white, rgb(0, 70, 140), white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, white, rgb(0, 70, 140), white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, white, rgb(0, 70, 140), white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, white, rgb(0, 70, 140), white); 
+	
+	text-align:center;
+	padding: 10px;
+	color:#fff;
+	font-size: 20px;
+	font-weight:bold;
+	
+}
+
+
+.titl{
+	background-image:url("../img/side-back.jpg");  
+	
+	text-align:center;
+	padding: 10px;
+	color:#000;
+	font-size: 20px;
+	font-weight:bold;
+	
+}
+
+.un-titl{
+	background-image:url("../img/un-tit.jpg"); 
+	
+	text-align:center;
+	padding: 5px 0 5px 0;
+	color:#000;
+	font-size: 20px;
+	font-weight:bold;
+	text-shadow: 1px 1px 1px #fff;
+}
+
+.deg-icon{
+ 	color:#004890;
+ 	padding-right: 10px;
+ }
+.hall-icon{
+ 	color:#800080;
+ 	padding-right: 10px;
+	font-size:20px;
+ }
+ 
+.temp_caption {
+  
+  width:100%;
+  bottom: 140px;
+  position: absolute;  
+  padding: 15px 20px;
+  font-weight:800;
+  color:#0e3070;
+  font-size:4.33333em;
+  font-family:"Open Sans";
+  line-height: 50px;
+  text-transform: uppercase;
+  letter-spacing: -3px;
+  text-align: center;
+  text-shadow: 1px 1px 1px #febe6a;	
+  	
+}
+
+
+
+
+@media (max-width: 992px) {
+	
+.temp_caption {	
+   
+ bottom:75px;
+ 
+}
+}
+ 
+@media (max-width: 767px) {
+	
+.temp_caption {	
+   
+ bottom:50px;
+ font-size: 30px;
+ line-height: 30px; 
+ 
+}
+}
+
+@media screen and (max-width: 479px) {
+  .titl{
+  	font-size: 15px;
+}
+.no-avail{
+	font-size: 10px;
+}
+.temp_caption {	
+   
+ bottom:1px;
+ font-size: 15px;
+ line-height: 20px; 
+ letter-spacing: 0;
+}
+.int-sec{
+font-size:20px;
+}
+.int-sec-cn{
+font-size:20px;
+}
+
+.dept{
+	font-size: 10px;
+}
+.faculty-title a{
+	font-size: 11px;
+}
+
+.glyphicon2{
+	font-size:11px;
+}
